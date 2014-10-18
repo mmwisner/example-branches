@@ -5,7 +5,8 @@ This repository contains several commits on `master` branch and two on feature b
 
 ## Usage
 
-* Using `git merge` to integrate branches
+* Using `git merge` to integrate some branches
+* The other branches were removed by ArborCare
 * Initiate a Pull Requests from a topic branch
 * Create a single commit with `git merge --squash`
 * Rewriting history with `git rebase`
